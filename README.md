@@ -1,29 +1,13 @@
 # Mental-Heath-Disease-Detection
 
-Keywords: Flask, Tensorflow, keras, numpy, pandas, CNN, Reddit, matplotlib, seaborn.
+Keywords: Tensorflow, keras, numpy, pandas, CNN, Reddit, matplotlib, seaborn , Jupyter Notebook.
 
-### Installation
-1. Create a virtual environment.
+## Installation
+1. Clone this Repository
 ```
-python -m venv env
+git clone https://github.com/ankita2002/Mental-Heath-Disease-Detection.git
 ```
-2. Run Environment (Activate)
-```
-env\Scripts\activate.bat 
-```
-3. Install dependencies from `requirements.txt`.
-```
-pip install -r requirements.txt
-```
-
-### Usage
-Run the project
-```
-python app/main.py
-```
-The project should open on [127.0.0.1:8000](http://127.0.0.1:8000).
-![image]()
-
+2. Open Jupyter Notebook and Run the files or Directly use the pickle files.
 
 ### Approach
 The Project is built to Indentify Mental health Diseases from text. <br>
